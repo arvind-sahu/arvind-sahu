@@ -1,15 +1,17 @@
-# Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Welcome+to+Digital+World&color=00FFFF" />
+
 <h1 align="center">
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+[Arvind+Kumar+Sahu];Full-Stack+Engineer;Backend+Specialis;Cloud+Enthusiast;Open+To+Collaborate!&color=00FFFF&center=true&vCenter=true" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Arvind+Kumar+Sahu;Full-Stack+Engineer;Backend+Specialis;Cloud+Enthusiast;Open+To+Collaborate!&color=00FFFF&center=true&vCenter=true" />
   </div>
 </h1>
 
-<h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="35" height="35"/>
-  Hey there! I'm [Arvind Kumar Sahu]
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-</h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/💻_Full_Stack_Developer-ff6b6b?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_5+_Years_Experience-4ecdc4?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎓_IIIT_Nagpur_Alumni-45b8d8?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+</div>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Full_Stack_Developer-FF6B6B?style=for-the-badge&logo=stackoverflow&logoColor=white" />
@@ -17,7 +19,7 @@
   <img src="https://img.shields.io/badge/IIIT_Nagpur_Alumni-45B8D8?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+[Arvind+Kumar+Sahu];Full-Stack+Developer;5+Years+Experience;Backend+Specialist;Open+To+Collaborate!&color=00FFFF" />
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
