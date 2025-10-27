@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Welcome+to+Digital+World&color=00FFFF" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=4000&lines=Hi+There!+👋;Welcome+to+Digital+World&color=#8A2BE2" />
 
 <h1 align="center">
   <div align="center">
@@ -21,14 +21,6 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-FF6B6B?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/5+_Years_Experience-4ECDC4?style=for-the-badge&logo=experience&logoColor=white" />
-  <img src="https://img.shields.io/badge/IIIT_Nagpur_Alumni-45B8D8?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-</div>
-
-
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
@@ -37,6 +29,12 @@
 <h4 align="center">
 A passionate Full-Stack Developer with 5 years of experience crafting robust backend systems and dynamic frontend applications. IIIT Nagpur alumnus passionate about building scalable solutions and cutting-edge technologies.
 </h4>
+<div align="center">
+  <a href="https://github.com/arvind-sahu/arvind-sahu/blob/main/ArvindKumarSahu.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_My_Resume-45b8d8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
+</div>
+
 
 <div align="center">
   
@@ -133,7 +131,3 @@ I'm probably debugging something right now! 🐛
 </div>
 
 
-<div>
-  <h1>Resume here...</h1>
-  <a href="https://github.com/arvind-sahu/arvind-sahu/blob/main/ArvindKumarSahu.pdf" download>
-</div>
