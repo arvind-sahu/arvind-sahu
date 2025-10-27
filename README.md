@@ -6,6 +6,13 @@
   </div>
 </h1>
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&lines=💻+Full+Stack+Developer;🚀+5%2B+Years+Experience;🎓+IIIT+Nagpur+Alumni" />
+</div>
+
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/💻_Full_Stack_Developer-ff6b6b?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/🚀_5+_Years_Experience-4ecdc4?style=for-the-badge&logo=github&logoColor=white" />
