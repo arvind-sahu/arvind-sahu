@@ -1,6 +1,8 @@
 ## Hi there 👋
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arvind+Kumar+Sahu!;" />
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+[Your+Name];Full-Stack+Developer;Backend+Specialist;Cloud+Enthusiast;Open+To+Collaborate!&color=00FFFF&center=true&vCenter=true" />
+  </div>
 </h1>
 
 <div align="center">
