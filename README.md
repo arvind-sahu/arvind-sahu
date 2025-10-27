@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 <h1 align="center">
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+[Arvind+Kumar+Sahu];Full-Stack+Developer;Backend+Specialist;Cloud+Enthusiast;Open+To+Collaborate!&color=00FFFF&center=true&vCenter=true" />
@@ -59,13 +59,13 @@ A passionate Full-Stack Developer with 5 years of experience crafting robust bac
   
 <!-- GitHub Stats with Animation -->
 <a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arvind-sahu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvind-sahu&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </a>
 
 <!-- GitHub Streak Stats -->
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true"/>
+<a href="https://github.com/arvind-sahu">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind-sahu&theme=radical&hide_border=true"/>
 </a>
 
 </div>
@@ -77,10 +77,10 @@ A passionate Full-Stack Developer with 5 years of experience crafting robust bac
 <div align="center">
 
 ### 🔥 Backend Projects
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-backend-repo&theme=radical&hide_border=true)](https://github.com/yourusername/your-backend-repo)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=arvid-sahu&repo=your-backend-repo&theme=radical&hide_border=true)](https://github.com/yourusername/your-backend-repo)
 
 ### 🎨 Frontend Projects  
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-frontend-repo&theme=radical&hide_border=true)](https://github.com/yourusername/your-frontend-repo)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=arvindsahu&repo=your-frontend-repo&theme=radical&hide_border=true)](https://github.com/yourusername/your-frontend-repo)
 
 </div>
 
@@ -106,7 +106,7 @@ I'm probably debugging something right now! 🐛
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=arvind-sahu&color=blueviolet&style=flat-square)
 
 </div>
 
