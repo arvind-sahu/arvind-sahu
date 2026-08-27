@@ -26,7 +26,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvindkumar93258@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=arvind-sahu&label=Profile%20views&color=00ADD8&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/badge/Open%20to-Senior%20Software%20Engineer%20%7C%20SSE-238636?style=flat-square" alt="Open to Senior Software Engineer SSE roles" />
+<img src="https://img.shields.io/badge/Open%20to-Senior%20Software%20Engineer%20%7C%20SSE%20%7C%20Node.js%20%7C%20Golang%20%7C%20NestJS%20%7C%20AWS-238636?style=flat-square" alt="Open to Senior Software Engineer SSE Node.js Golang NestJS AWS roles" />
 <img src="https://img.shields.io/badge/Location-Bengaluru%20·%20Remote-0D1117?style=flat-square" alt="Location Bengaluru" />
 <img src="https://img.shields.io/badge/Immediate-Joiner-e8b070?style=flat-square" alt="Immediate joiner" />
 
@@ -38,9 +38,26 @@
 
 **Arvind Kumar Sahu** (`arvind-sahu` on [GitHub](https://github.com/arvind-sahu), `gopherarvind` on [LinkedIn](https://www.linkedin.com/in/gopherarvind/)) is a **Senior Software Engineer (SSE)** in Bengaluru. This is the **official GitHub profile of Arvind Kumar Sahu**.
 
-Official website: [https://arvind-sahu.github.io](https://arvind-sahu.github.io/) · Bio: [Who is Arvind Kumar Sahu?](https://arvind-sahu.github.io/arvind-kumar-sahu.html)
+Official website: [https://arvind-sahu.github.io](https://arvind-sahu.github.io/) · Bio: [Who is Arvind Kumar Sahu?](https://arvind-sahu.github.io/arvind-kumar-sahu.html) · Roles: [Senior Software Engineer / SSE](https://arvind-sahu.github.io/senior-software-engineer.html)
 
 Backend-focused full-stack engineer with **6+ years** building scalable, high-performance systems in fintech and SaaS. I design and ship low-latency microservices using Node.js (NestJS), Golang, and AWS.
+
+---
+
+## Open to these roles
+
+**Correct spellings recruiters search:** Node.js (not Nodejs) · Golang / Go · NestJS · full-stack · end-to-end
+
+- **Senior Software Engineer** / **SSE** / SDE
+- **Node.js developer** · **NestJS developer** · Node.js engineer
+- **Go developer** · **Golang developer** · Golang engineer
+- **Senior backend developer** · backend engineer
+- **Full-stack developer** · **full-stack developer with AWS**
+- **Backend developer with AWS**
+- **End-to-end developer**
+- TypeScript engineer · microservices engineer · AWS backend engineer
+
+I am a **Node.js developer**, **Golang developer**, **NestJS developer**, **senior backend developer**, and **full-stack developer with AWS** — an **end-to-end developer** who owns architecture, APIs, data, cloud, and delivery.
 
 - **Now:** Software Engineer @ Stealth Startup · immediately available
 - **Focus:** Node.js / NestJS, Golang, AWS, event-driven microservices
