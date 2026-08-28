@@ -178,8 +178,19 @@ This is the stack behind a **backend developer with AWS** who can still ship the
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/arvind-sahu/Task-Mgmt">Task-Mgmt</a></h3>
+      <h3><a href="https://github.com/arvind-sahu/Task-Mgmt">Task-Mgmt (Tasker)</a></h3>
       <p>Task management on the T3 stack — Next.js, tRPC, Prisma, NextAuth, Postgres, serverless AWS via SST.</p>
+      <p>
+        <a href="https://d3011kpjkcpcxd.cloudfront.net/">
+          <img src="https://arvind-sahu.github.io/tasker-home.png" width="480" alt="Tasker web app screenshot — Kanban board with Backlog, In progress, and Done" />
+        </a>
+        <br/>
+        <a href="https://d3011kpjkcpcxd.cloudfront.net/">
+          <img src="https://arvind-sahu.github.io/tasker-signin.png" width="480" alt="Tasker sign-in page screenshot" />
+        </a>
+        <br/>
+        <a href="https://d3011kpjkcpcxd.cloudfront.net/">Live Tasker app</a> · <a href="https://github.com/arvind-sahu/Task-Mgmt">Source</a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -212,15 +223,34 @@ This is the stack behind a **backend developer with AWS** who can still ship the
 
 ---
 
+## LeetCode
+
+<div align="center">
+  <a href="https://leetcode.com/u/arvind_iiitn">
+    <img src="https://leetcard.jacoblin.cool/arvind_iiitn?theme=dark&font=jetbrains_mono&ext=heatmap&border=0" alt="LeetCode stats for arvind_iiitn — Arvind Kumar Sahu, 96 problems solved" />
+  </a>
+  <p><a href="https://leetcode.com/u/arvind_iiitn"><strong>leetcode.com/u/arvind_iiitn</strong></a> · 96 problems (68 Easy · 27 Medium · 1 Hard)</p>
+</div>
+
+---
+
 ## GitHub analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arvind-sahu&show_icons=true&count_private=true&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&bg_color=06080c&cache_seconds=86400" alt="GitHub stats for arvind-sahu Senior Software Engineer" />
-  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arvind-sahu&layout=compact&hide_border=true&title_color=00ADD8&text_color=c9d1d9&bg_color=06080c&langs_count=6&cache_seconds=86400" alt="Top languages Node.js Golang TypeScript" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arvind-sahu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&bg_color=06080c&cache_seconds=1800" alt="GitHub stats for arvind-sahu Senior Software Engineer" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arvind-sahu&layout=compact&hide_border=true&title_color=00ADD8&text_color=c9d1d9&bg_color=06080c&langs_count=6&cache_seconds=1800" alt="Top languages Node.js Golang TypeScript" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=arvind-sahu&theme=dark&hide_border=true&background=06080C&ring=00ADD8&fire=e8b070&currStreakNum=00ADD8" alt="GitHub streak arvind-sahu" />
+  <img src="https://streak-stats.demolab.com/?user=arvind-sahu&theme=dark&hide_border=true&background=06080C&ring=00ADD8&fire=e8b070&currStreakNum=00ADD8&mode=daily" alt="GitHub streak arvind-sahu" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00add8/arvind-sahu" alt="GitHub contribution calendar for arvind-sahu" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvind-sahu&bg_color=06080c&color=00ADD8&line=e8b070&point=00ADD8&area=true&hide_border=true" alt="GitHub activity graph for arvind-sahu" />
 </div>
 
 ---
@@ -255,6 +285,7 @@ This is the stack behind a **backend developer with AWS** who can still ship the
     <a href="https://www.linkedin.com/in/gopherarvind/">LinkedIn</a> ·
     <a href="https://github.com/arvind-sahu">GitHub</a> ·
     <a href="https://arvind-sahu.github.io">Portfolio</a> ·
+    <a href="https://leetcode.com/u/arvind_iiitn">LeetCode</a> ·
     <a href="mailto:arvindkumar93258@gmail.com">Email</a>
   </p>
   <p><strong>Senior Software Engineer</strong> · Node.js developer · Golang developer · NestJS developer · Full stack developer with AWS</p>
