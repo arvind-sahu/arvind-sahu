@@ -25,10 +25,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arvind_iiitn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvindkumar93258@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=arvind-sahu&label=Profile%20views&color=00ADD8&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/badge/Open%20to-Senior%20Software%20Engineer%20%7C%20SSE%20%7C%20Node.js%20%7C%20Golang%20%7C%20NestJS%20%7C%20AWS-238636?style=flat-square" alt="Open to Senior Software Engineer SSE Node.js Golang NestJS AWS roles" />
-<img src="https://img.shields.io/badge/Location-Bengaluru%20·%20Remote-0D1117?style=flat-square" alt="Location Bengaluru" />
-<img src="https://img.shields.io/badge/Immediate-Joiner-e8b070?style=flat-square" alt="Immediate joiner" />
+![Profile views](https://hits.sh/github.com/arvind-sahu.svg?style=flat-square&label=Profile%20views&color=00ADD8&labelColor=555555&extraCount=154)
+![Open to Senior Software Engineer SSE Node.js Golang NestJS AWS roles](https://img.shields.io/badge/Open%20to-Senior%20Software%20Engineer%20%7C%20SSE%20%7C%20Node.js%20%7C%20Golang%20%7C%20NestJS%20%7C%20AWS-238636?style=flat-square)
+![Location Bengaluru](https://img.shields.io/badge/Location-Bengaluru%20·%20Remote-0D1117?style=flat-square)
+![Immediate joiner](https://img.shields.io/badge/Immediate-Joiner-e8b070?style=flat-square)
 
 </div>
 
