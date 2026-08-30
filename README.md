@@ -24,6 +24,8 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6710-9360)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arvind_iiitn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvindkumar93258@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-624B79?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://arvind-sahu.github.io/resume.html)
+[![PDF](https://img.shields.io/badge/Resume%20PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://arvind-sahu.github.io/ArvindKumarSahu.pdf)
 
 ![Profile views](https://hits.sh/github.com/arvind-sahu.svg?style=flat-square&label=Profile%20views&color=00ADD8&labelColor=555555&extraCount=154)
 ![Open to Senior Software Engineer SSE Node.js Golang NestJS AWS roles](https://img.shields.io/badge/Open%20to-Senior%20Software%20Engineer%20%7C%20SSE%20%7C%20Node.js%20%7C%20Golang%20%7C%20NestJS%20%7C%20AWS-238636?style=flat-square)
@@ -38,7 +40,7 @@
 
 **Arvind Kumar Sahu** (`arvind-sahu` on [GitHub](https://github.com/arvind-sahu), `gopherarvind` on [LinkedIn](https://www.linkedin.com/in/gopherarvind/)) is a **Senior Software Engineer (SSE)** in Bengaluru. This is the **official GitHub profile of Arvind Kumar Sahu**.
 
-Official website: [https://arvind-sahu.github.io](https://arvind-sahu.github.io/) · Bio: [Who is Arvind Kumar Sahu?](https://arvind-sahu.github.io/arvind-kumar-sahu.html) · Roles: [Senior Software Engineer / SSE](https://arvind-sahu.github.io/senior-software-engineer.html)
+Official website: [https://arvind-sahu.github.io](https://arvind-sahu.github.io/) · Resume: [HTML](https://arvind-sahu.github.io/resume.html) · [PDF](https://arvind-sahu.github.io/ArvindKumarSahu.pdf) · Bio: [Who is Arvind Kumar Sahu?](https://arvind-sahu.github.io/arvind-kumar-sahu.html) · Roles: [Senior Software Engineer / SSE](https://arvind-sahu.github.io/senior-software-engineer.html)
 
 Backend-focused full-stack engineer with **6+ years** building scalable, high-performance systems in fintech and SaaS. I design and ship low-latency microservices using Node.js (NestJS), Golang, and AWS.
 
@@ -285,6 +287,7 @@ This is the stack behind a **backend developer with AWS** who can still ship the
     <a href="https://www.linkedin.com/in/gopherarvind/">LinkedIn</a> ·
     <a href="https://github.com/arvind-sahu">GitHub</a> ·
     <a href="https://arvind-sahu.github.io">Portfolio</a> ·
+    <a href="https://arvind-sahu.github.io/resume.html">Resume</a> ·
     <a href="https://leetcode.com/u/arvind_iiitn">LeetCode</a> ·
     <a href="mailto:arvindkumar93258@gmail.com">Email</a>
   </p>
