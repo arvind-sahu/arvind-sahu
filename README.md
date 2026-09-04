@@ -209,6 +209,20 @@ This is the stack behind a **backend developer with AWS** who can still ship the
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/arvind-sahu/application-tracker">Application pipeline</a></h3>
+      <p>Local-first tracker for USD-remote search from India — board, follow-ups, daily quota, copy-paste founder notes. Does not auto-apply or DM anyone.</p>
+      <p>
+        <a href="https://arvind-sahu.github.io/application-tracker/">Live app</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
 </table>
 
 ---
