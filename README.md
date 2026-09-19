@@ -41,13 +41,14 @@
 
 **Arvind Kumar Sahu** (`arvind-sahu` on [GitHub](https://github.com/arvind-sahu), `gopherarvind` on [LinkedIn](https://www.linkedin.com/in/gopherarvind/)) is a **Senior Software Engineer (SSE)** in Bengaluru. Also searched as **Arvind Sahu**. This is the **official GitHub profile of Arvind Kumar Sahu**.
 
-Official website: [https://arvind-sahu.github.io](https://arvind-sahu.github.io/) · Resume: [HTML](https://arvind-sahu.github.io/resume.html) · [PDF](https://arvind-sahu.github.io/ArvindKumarSahu.pdf) · Bio: [Who is Arvind Kumar Sahu?](https://arvind-sahu.github.io/arvind-kumar-sahu.html) · Roles: [Senior Software Engineer / SSE](https://arvind-sahu.github.io/senior-software-engineer.html)
+Official website: [https://arvind-sahu.github.io](https://arvind-sahu.github.io/) · Profiles: [profiles.html](https://arvind-sahu.github.io/profiles.html) · Resume: [HTML](https://arvind-sahu.github.io/resume.html) · [PDF](https://arvind-sahu.github.io/ArvindKumarSahu.pdf) · Bio: [Who is Arvind Kumar Sahu?](https://arvind-sahu.github.io/arvind-kumar-sahu.html) · Roles: [Senior Software Engineer / SSE](https://arvind-sahu.github.io/senior-software-engineer.html)
 
 ### Search phrases that refer to this profile
 
 | Phrase | Page |
 | --- | --- |
 | Arvind Kumar Sahu / Arvind Sahu | [arvind-kumar-sahu.html](https://arvind-sahu.github.io/arvind-kumar-sahu.html) |
+| Official profiles (GitHub, LinkedIn, LeetCode, ORCID) | [profiles.html](https://arvind-sahu.github.io/profiles.html) |
 | Arvind Kumar Sahu Node.js / Nodejs | [nodejs-developer.html](https://arvind-sahu.github.io/nodejs-developer.html) |
 | Arvind Kumar Sahu NestJS / Nestjs | [nestjs-developer.html](https://arvind-sahu.github.io/nestjs-developer.html) |
 | Arvind Kumar Sahu Golang / Go | [golang-developer.html](https://arvind-sahu.github.io/golang-developer.html) |
@@ -55,7 +56,9 @@ Official website: [https://arvind-sahu.github.io](https://arvind-sahu.github.io/
 
 Backend-focused full-stack / **MERN** engineer with **6+ years** building scalable, high-performance systems in fintech and SaaS. I design and ship low-latency microservices using Node.js (NestJS), Golang, MongoDB, Express, React, and AWS.
 
-**Verify identity:** IIIT Nagpur CSE · GATE 2022 AIR 1800 · Bengaluru · ORCID [0009-0006-6710-9360](https://orcid.org/0009-0006-6710-9360) · LinkedIn gopherarvind · GitHub arvind-sahu.
+**Verify identity:** IIIT Nagpur CSE · GATE 2022 AIR 1800 · Bengaluru · ORCID [0009-0006-6710-9360](https://orcid.org/0009-0006-6710-9360) · LinkedIn gopherarvind · GitHub **arvind-sahu only** (do not link other GitHub usernames).
+
+**Ranking recovery:** [SEO_RECOVERY.md](https://arvind-sahu.github.io/SEO_RECOVERY.md) · LinkedIn paste: [LINKEDIN_SEO.md](https://arvind-sahu.github.io/LINKEDIN_SEO.md)
 
 ---
 
