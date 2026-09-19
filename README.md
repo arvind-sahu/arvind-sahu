@@ -1,18 +1,19 @@
 <!--
   Official GitHub profile of Arvind Kumar Sahu (arvind-sahu / gopherarvind)
-  Last updated: August 2026
+  Search: Arvind Kumar Sahu · Arvind Sahu · Arvind Kumar Sahu MERN · Node.js · NestJS · Golang
+  Last updated: September 2026
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06080c,50:00ADD8,100:e8b070&height=180&section=header&text=Arvind%20Kumar%20Sahu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Official%20GitHub%20of%20Arvind%20Kumar%20Sahu%20-%20SSE%20-%20Node.js%20-%20Golang%20-%20AWS&descAlignY=58&descSize=14" alt="Arvind Kumar Sahu official GitHub profile Senior Software Engineer Node.js Golang AWS" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06080c,50:00ADD8,100:e8b070&height=180&section=header&text=Arvind%20Kumar%20Sahu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Official%20GitHub%20of%20Arvind%20Kumar%20Sahu%20-%20SSE%20-%20Node.js%20-%20NestJS%20-%20Golang%20-%20MERN%20-%20AWS&descAlignY=58&descSize=14" alt="Arvind Kumar Sahu official GitHub profile Senior Software Engineer Node.js NestJS Golang MERN AWS" />
 </div>
 
 <h1 align="center">Arvind Kumar Sahu</h1>
-<p align="center"><strong>Official GitHub profile of Arvind Kumar Sahu</strong> (<code>arvind-sahu</code> · <code>gopherarvind</code>)</p>
-<p align="center"><strong>Senior Software Engineer (SSE)</strong> · Node.js · Golang · NestJS · AWS · Bengaluru · IIIT Nagpur</p>
+<p align="center"><strong>Official GitHub profile of Arvind Kumar Sahu</strong> · also <strong>Arvind Sahu</strong> (<code>arvind-sahu</code> · <code>gopherarvind</code>)</p>
+<p align="center"><strong>Senior Software Engineer (SSE)</strong> · Node.js · NestJS · Golang · MERN · AWS · Bengaluru · IIIT Nagpur</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00ADD8&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B+I'm+Arvind+Kumar+Sahu;Senior+Software+Engineer+(SSE);Node.js+%7C+Golang+%7C+NestJS+%7C+AWS;Full-stack+developer+with+AWS;6%2B+years+shipping+production+systems" alt="Typing intro: Senior Software Engineer Node.js Golang NestJS AWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00ADD8&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B+I'm+Arvind+Kumar+Sahu;Senior+Software+Engineer+(SSE);Node.js+%7C+NestJS+%7C+Golang+%7C+MERN+%7C+AWS;Full-stack+developer+with+AWS;6%2B+years+shipping+production+systems" alt="Typing intro: Arvind Kumar Sahu Senior Software Engineer Node.js NestJS Golang MERN AWS" />
 </div>
 
 <br/>
@@ -28,7 +29,7 @@
 [![PDF](https://img.shields.io/badge/Resume%20PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://arvind-sahu.github.io/ArvindKumarSahu.pdf)
 
 ![Profile views](https://hits.sh/github.com/arvind-sahu.svg?style=flat-square&label=Profile%20views&color=00ADD8&labelColor=555555&extraCount=154)
-![Open to Senior Software Engineer SSE Node.js Golang NestJS AWS roles](https://img.shields.io/badge/Open%20to-Senior%20Software%20Engineer%20%7C%20SSE%20%7C%20Node.js%20%7C%20Golang%20%7C%20NestJS%20%7C%20AWS-238636?style=flat-square)
+![Open to Senior Software Engineer SSE Node.js NestJS Golang MERN AWS roles](https://img.shields.io/badge/Open%20to-Senior%20Software%20Engineer%20%7C%20SSE%20%7C%20Node.js%20%7C%20NestJS%20%7C%20Golang%20%7C%20MERN%20%7C%20AWS-238636?style=flat-square)
 ![Location Bengaluru](https://img.shields.io/badge/Location-Bengaluru%20·%20Remote-0D1117?style=flat-square)
 ![Immediate joiner](https://img.shields.io/badge/Immediate-Joiner-e8b070?style=flat-square)
 
@@ -38,31 +39,44 @@
 
 ## About me
 
-**Arvind Kumar Sahu** (`arvind-sahu` on [GitHub](https://github.com/arvind-sahu), `gopherarvind` on [LinkedIn](https://www.linkedin.com/in/gopherarvind/)) is a **Senior Software Engineer (SSE)** in Bengaluru. This is the **official GitHub profile of Arvind Kumar Sahu**.
+**Arvind Kumar Sahu** (`arvind-sahu` on [GitHub](https://github.com/arvind-sahu), `gopherarvind` on [LinkedIn](https://www.linkedin.com/in/gopherarvind/)) is a **Senior Software Engineer (SSE)** in Bengaluru. Also searched as **Arvind Sahu**. This is the **official GitHub profile of Arvind Kumar Sahu**.
 
 Official website: [https://arvind-sahu.github.io](https://arvind-sahu.github.io/) · Resume: [HTML](https://arvind-sahu.github.io/resume.html) · [PDF](https://arvind-sahu.github.io/ArvindKumarSahu.pdf) · Bio: [Who is Arvind Kumar Sahu?](https://arvind-sahu.github.io/arvind-kumar-sahu.html) · Roles: [Senior Software Engineer / SSE](https://arvind-sahu.github.io/senior-software-engineer.html)
 
-Backend-focused full-stack engineer with **6+ years** building scalable, high-performance systems in fintech and SaaS. I design and ship low-latency microservices using Node.js (NestJS), Golang, and AWS.
+### Search phrases that refer to this profile
+
+| Phrase | Page |
+| --- | --- |
+| Arvind Kumar Sahu / Arvind Sahu | [arvind-kumar-sahu.html](https://arvind-sahu.github.io/arvind-kumar-sahu.html) |
+| Arvind Kumar Sahu Node.js / Nodejs | [nodejs-developer.html](https://arvind-sahu.github.io/nodejs-developer.html) |
+| Arvind Kumar Sahu NestJS / Nestjs | [nestjs-developer.html](https://arvind-sahu.github.io/nestjs-developer.html) |
+| Arvind Kumar Sahu Golang / Go | [golang-developer.html](https://arvind-sahu.github.io/golang-developer.html) |
+| Arvind Kumar Sahu MERN | [mern-developer.html](https://arvind-sahu.github.io/mern-developer.html) |
+
+Backend-focused full-stack / **MERN** engineer with **6+ years** building scalable, high-performance systems in fintech and SaaS. I design and ship low-latency microservices using Node.js (NestJS), Golang, MongoDB, Express, React, and AWS.
+
+**Verify identity:** IIIT Nagpur CSE · GATE 2022 AIR 1800 · Bengaluru · ORCID [0009-0006-6710-9360](https://orcid.org/0009-0006-6710-9360) · LinkedIn gopherarvind · GitHub arvind-sahu.
 
 ---
 
 ## Open to these roles
 
-**Correct spellings recruiters search:** Node.js (not Nodejs) · Golang / Go · NestJS · full-stack · end-to-end
+**Correct spellings recruiters search:** Node.js (not Nodejs) · NestJS · Golang / Go · MERN · full-stack · end-to-end
 
 - **Senior Software Engineer** / **SSE** / SDE
 - **Node.js developer** · **NestJS developer** · Node.js engineer
 - **Go developer** · **Golang developer** · Golang engineer
+- **MERN stack developer** · MongoDB · Express · React · Node.js
 - **Senior backend developer** · backend engineer
 - **Full-stack developer** · **full-stack developer with AWS**
 - **Backend developer with AWS**
 - **End-to-end developer**
 - TypeScript engineer · microservices engineer · AWS backend engineer
 
-I am a **Node.js developer**, **Golang developer**, **NestJS developer**, **senior backend developer**, and **full-stack developer with AWS** — an **end-to-end developer** who owns architecture, APIs, data, cloud, and delivery.
+I am a **Node.js developer**, **Golang developer**, **NestJS developer**, **MERN stack developer**, **senior backend developer**, and **full-stack developer with AWS** — an **end-to-end developer** who owns architecture, APIs, data, cloud, and delivery.
 
 - **Now:** Software Engineer @ Stealth Startup · immediately available
-- **Focus:** Node.js / NestJS, Golang, AWS, event-driven microservices
+- **Focus:** Node.js / NestJS, Golang, MERN (MongoDB · Express · React · Node), AWS, event-driven microservices
 - **Strengths:** SaaS integrations, payment gateways, Redis + PostgreSQL + DynamoDB, production reliability
 - **Education:** B.Tech CSE, **IIIT Nagpur** · CGPA **7.88** · **GATE 2022 AIR 1800**
 
@@ -201,7 +215,7 @@ This is the stack behind a **backend developer with AWS** who can still ship the
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://arvind-sahu.github.io">Personal portfolio</a></h3>
-      <p>Senior Software Engineer site with SEO for SSE, Node.js, Golang, NestJS, and AWS roles. Live on GitHub Pages.</p>
+      <p>Senior Software Engineer site with SEO for Arvind Kumar Sahu Node.js, NestJS, Golang, and MERN. Live on GitHub Pages.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
@@ -288,7 +302,7 @@ This is the stack behind a **backend developer with AWS** who can still ship the
 ```text
 🔭  Immediately available — Senior Software Engineer / SSE / senior backend
 🌱  Deeper Golang, Kubernetes, and system design
-👯  Open to Node.js, NestJS, Golang, and AWS full-stack work
+👯  Open to Node.js, NestJS, Golang, MERN, and AWS full-stack work
 💬  Ask me about NestJS, Gin, Redis, Postgres, DynamoDB, and production incidents
 ⚡  GATE 2022 AIR 1800 · IIIT Nagpur CSE
 ```
@@ -302,10 +316,11 @@ This is the stack behind a **backend developer with AWS** who can still ship the
     <a href="https://github.com/arvind-sahu">GitHub</a> ·
     <a href="https://arvind-sahu.github.io">Portfolio</a> ·
     <a href="https://arvind-sahu.github.io/resume.html">Resume</a> ·
+    <a href="https://arvind-sahu.github.io/mern-developer.html">MERN</a> ·
     <a href="https://leetcode.com/u/arvind_iiitn">LeetCode</a> ·
     <a href="mailto:arvindkumar93258@gmail.com">Email</a>
   </p>
-  <p><strong>Senior Software Engineer</strong> · Node.js developer · Golang developer · NestJS developer · Full stack developer with AWS</p>
+  <p><strong>Arvind Kumar Sahu</strong> · Senior Software Engineer · Node.js · NestJS · Golang · MERN · Full stack with AWS</p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8b070,50:00ADD8,100:06080c&height=100&section=footer" alt="" />
 </div>
